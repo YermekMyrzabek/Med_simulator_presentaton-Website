@@ -1,0 +1,28 @@
+/* Navigation bar */
+
+.navbar {
+  background-color: #32CFF0 ;
+  color: white;
+}
+.col-xs-3{
+    margin-top: 5%;
+}
+.slide-image{
+  height: 350px;
+  width: 1140px;
+}
+.right{
+  margin-top: 2%;
+}
+.left{
+  margin-top: 2%;
+}
+h3{
+  font-family: 'Newsreader', serif;
+}
+
+.vt{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
